@@ -6,7 +6,7 @@
 
 .game-container{
     height: 100vh;
-    background-color: rgb(241, 241, 125);
+    background-color: rgb(207, 234, 252);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -15,7 +15,7 @@
 
 .grid{
     width: 500px;
-    background-color: red;
+    background-color: rgb(245, 250, 179);
     
     display: grid;
     grid-template-columns: repeat(4,100px);
